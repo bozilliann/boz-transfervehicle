@@ -46,7 +46,7 @@ This will transfer your vehicle with ID 5 to the nearest player for \$10,000.
 
 1. Download or clone this repository.
 2. Place the folder in your `resources` directory.
-3. Add `ensure vehicle_transfer` to your `server.cfg`.
+3. Add `ensure transfervehicle` to your `server.cfg`.
 4. Make sure **ox\_lib** and **QBCore/QBox** are installed.
 
 ---
